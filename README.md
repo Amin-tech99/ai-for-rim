@@ -1,3 +1,15 @@
+---
+language:
+- ar
+tags:
+- hassaniya
+- mauritania
+- dialect
+task_categories:
+- translation
+- conversational
+license: mit
+---
 # AI for RIM: Hassaniya Dialect Datasets 🇲🇷
 
 This repository contains open-source datasets designed for training and fine-tuning Large Language Models (LLMs) on the **Hassaniya** dialect of Mauritania.
