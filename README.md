@@ -7,7 +7,7 @@ tags:
 - dialect
 task_categories:
 - translation
-- conversational
+- text-generation
 license: mit
 ---
 # AI for RIM: Hassaniya Dialect Datasets 🇲🇷
