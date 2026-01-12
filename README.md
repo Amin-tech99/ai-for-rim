@@ -44,4 +44,4 @@ The goal of this project is to build foundational resources for Hassaniya NLP an
 
 ## Acknowledgements
 
-Special thanks to **Dr. Ahmed Ammar** for his invaluable guidance, mentorship, and support in making this project possible.
+Special thanks to **Dr. Ahmed Oumar** for his invaluable guidance, mentorship, and support in making this project possible.
